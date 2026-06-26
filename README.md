@@ -3,7 +3,7 @@
 <h3 align="center">Cybersecurity Student | Aspiring Cybersecurity Analyst</h3>
 
 <p align="center">
-  <a href="http://127.0.0.1:5500/MyPortfolio/index.html" target="_blank">
+  <a href="https://github.com/Mary-CG/wvid" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Live%20Site-blue?style=for-the-badge" alt="portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/marycynthia-chidiebube-089144332" target="_blank">
