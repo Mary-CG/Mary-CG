@@ -3,8 +3,8 @@
 <h3 align="center">Cybersecurity Student | Aspiring Cybersecurity Analyst</h3>
 
 <p align="center">
-  <a href="https://Mary-CG.github.io/maria-portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Live%20Site-blue?style=for-the-badge" alt="portfoli"/>
+  <a href="https://github.com/Mary-CG/wvid" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Live%20Site-blue?style=for-the-badge" alt="portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/marycynthia-chidiebube-089144332" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
